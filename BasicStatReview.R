@@ -1,5 +1,6 @@
 
-# Review of Basic Statistics
+# Not a Review Basic Statistics
+J Dickens
 
 library(tidyverse)
 #install.packages("Sleuth3")
