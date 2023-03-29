@@ -1,5 +1,5 @@
 
-# R Preiminaries
+# R PRELIMINARIES
 
 # 1 Raise 12 to the second power
 12^2
