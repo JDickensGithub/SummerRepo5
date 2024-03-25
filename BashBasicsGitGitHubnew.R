@@ -3,7 +3,7 @@
 # Git ->  coding and processing      GitHub -> Posting , Showing, Hosting
 
 # Open up the terminal in R Studio
-
+James Dickens is 24 years old
 # The Command Line
 #   The command line is like the R command prompt: you insert code, hit
 #   enter, and then the computer executes your command.
