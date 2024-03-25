@@ -1,7 +1,7 @@
 library(tidyverse)
 library(textdata)
 library(tidytext)
-
+James Dickens 
 # TEXT MINING (Extracting, Processing, Organizing, Summarizing,
 # and producing visualizations for text data) 
 
